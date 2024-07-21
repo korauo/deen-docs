@@ -7,12 +7,12 @@ hero:
   tagline: An Islamic Discord Bot on a mission to make the Quran and Hadith accessible for everyone.
   image:
     alt: deen logo
-    light: /deen_black.png
-    dark: /deen_white.png
+    light: /alt_deen_black.png
+    dark: /alt_deen_white.png
   actions:
     - theme: brand
       text: "🚀 invite to your server"
-      link: https://discord.com/
+      link: https://discord.com/api/oauth2/authorize?client_id=1222254816550588426&scope=bot+applications.commands&permissions=1374891928950
     - theme: alt
       text: view docs
       link: /docs/cmds/msg

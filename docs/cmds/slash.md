@@ -1,1 +1,1 @@
-# Slash Commands
+# Slash Commands <Badge type="warning" text="docs in dev"/>
